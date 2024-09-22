@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://zhihengyu-whut.github.io</id>
+    <title>恒学小站</title>
+    <updated>2024-09-22T08:35:10.701Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://zhihengyu-whut.github.io"/>
+    <link rel="self" href="https://zhihengyu-whut.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://zhihengyu-whut.github.io/images/avatar.png</logo>
+    <icon>https://zhihengyu-whut.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 恒学小站</rights>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://zhihengyu-whut.github.io/post/test/</id>
+        <link href="https://zhihengyu-whut.github.io/post/test/">
+        </link>
+        <updated>2024-09-22T08:34:52.000Z</updated>
+        <content type="html"><![CDATA[<p>test</p>
+]]></content>
+    </entry>
+</feed>
